@@ -1,0 +1,121 @@
+### C ###
+# Requisitos previos
+*.D
+
+# Archivos de objeto
+* .o
+* .ko
+* .obj
+*.duende
+
+# Salida del vinculador
+* .leche
+*.mapa
+*.Exp
+
+# Encabezados precompilados
+* .gch
+* .pch
+
+# Bibliotecas
+* .lib
+*.a
+*.la
+* .lo
+
+# Objetos compartidos (incluidas DLL de Windows)
+* .dll
+*.asi que
+*.asi que.*
+* .dylib
+
+# Ejecutables
+*.exe
+*.afuera
+* .app
+* .i * 86
+* .x86_64
+*.maleficio
+
+# Depurar archivos
+* .dSYM /
+* .su
+* .idb
+* .pdb
+
+# Resultados de la compilación del módulo del kernel
+*.modificación*
+* .cmd
+.tmp_versions /
+módulos.orden
+Module.symvers
+Mkfile.old
+dkms.conf
+
+### C ++ ###
+# Requisitos previos
+
+# Archivos de objetos compilados
+* .slo
+
+# Encabezados precompilados
+
+# Archivos del vinculador
+
+# Archivos del depurador
+
+# Bibliotecas dinámicas compiladas
+
+# Archivos del módulo Fortran
+*.modificación
+* .smod
+
+# Bibliotecas estáticas compiladas
+* .lai
+
+# Ejecutables
+
+### VisualStudioCode ###
+.vscode / *
+! .vscode / tasks.json
+! .vscode / launch.json
+* .code-espacio de trabajo
+
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### Parche VisualStudioCode ###
+# Ignorar todo el historial local de archivos
+.historia
+.ionido
+
+### Windows ###
+# Archivos de caché de miniaturas de Windows
+Thumbs.db
+Thumbs.db: encriptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Archivo de volcado
+* .stackdump
+
+# Archivo de configuración de carpeta
+[Dd] esktop.ini
+
+# Papelera de reciclaje utilizada en archivos compartidos
+$ RECICLAJE.BIN /
+
+# Archivos de Windows Installer
+*.taxi
+* .msi
+* .msix
+* .msm
+* .msp
+
+# Accesos directos de Windows
+* .lnk
